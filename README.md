@@ -1,8 +1,4 @@
-# Kineri-app.github.io
-Kineri App
-
 # Datenschutzerklärung für Kineri
-
 *Stand: 01.08.2026
 
 > **Kurz zusammengefasst:** Kineri speichert alle Daten ausschließlich lokal auf deinem Gerät. Es besteht keine Internetverbindung der App, keine Cloud-Anbindung, kein Nutzerkonto und keine Übermittlung von Daten an den Entwickler oder an Dritte.
